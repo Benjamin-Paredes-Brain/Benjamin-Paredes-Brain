@@ -19,7 +19,7 @@
 <a href="mailto:benjaminparedestr@gmail.com">![](https://img.shields.io/badge/Gmail-black?logo=gmail)</a>
 <a href="https://www.linkedin.com/in/benjamin-martin-paredes-brain/">![](https://img.shields.io/badge/Linkedin-black?logo=linkedin)</a>
 <br/>
-<a href="benjaminparedes.com">![](https://img.shields.io/badge/PORTFOLIO-954094)</a>
+<a href="https://www.benjaminparedes.com/">![](https://img.shields.io/badge/PORTFOLIO-954094)</a>
 
 
 
