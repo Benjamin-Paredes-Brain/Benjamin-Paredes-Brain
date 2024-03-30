@@ -16,8 +16,13 @@
 ![](https://img.shields.io/badge/Firebase-black?logo=firebase)
 
 ### Contact Me
-<a href="mailto:benjaminparedestr@gmail.com" target="_blank">![](https://img.shields.io/badge/Gmail-black?logo=gmail)</a>
-<a href="https://www.linkedin.com/in/benjamin-martin-paredes-brain/" target="_blank">![](https://img.shields.io/badge/Linkedin-black?logo=linkedin)</a>
+<a href="mailto:benjaminparedestr@gmail.com">![](https://img.shields.io/badge/Gmail-black?logo=gmail)</a>
+<a href="https://www.linkedin.com/in/benjamin-martin-paredes-brain/">![](https://img.shields.io/badge/Linkedin-black?logo=linkedin)</a>
+<br/>
+<a href="benjaminparedes.com">![](https://img.shields.io/badge/PORTFOLIO-954094)</a>
+
+
+
 
 
 
