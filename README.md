@@ -8,7 +8,8 @@
 ![](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![](https://img.shields.io/badge/SASS-black?logo=sass)
 ![](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
-![](https://img.shields.io/badge/React-black?logo=react)
+![](https://img.shields.io/badge/Reactjs-black?logo=react)
+![](https://img.shields.io/badge/Python-black?logo=python)
 <br/>
 ![](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![](https://img.shields.io/badge/Express-black?logo=express)
